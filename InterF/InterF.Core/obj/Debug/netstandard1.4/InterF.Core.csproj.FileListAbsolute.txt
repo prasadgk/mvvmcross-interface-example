@@ -1,0 +1,9 @@
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\bin\Debug\netstandard1.4\InterF.Core.deps.json
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\bin\Debug\netstandard1.4\InterF.Core.dll
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\bin\Debug\netstandard1.4\InterF.Core.pdb
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\obj\Debug\netstandard1.4\InterF.Core.csproj.CoreCompileInputs.cache
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\obj\Debug\netstandard1.4\InterF.Core.AssemblyInfoInputs.cache
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\obj\Debug\netstandard1.4\InterF.Core.AssemblyInfo.cs
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\obj\Debug\netstandard1.4\InterF.Core.dll
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\obj\Debug\netstandard1.4\InterF.Core.pdb
+C:\Users\prasadgk\source\repos\InterF\InterF\InterF.Core\obj\Debug\netstandard1.4\InterF.Core.csprojAssemblyReference.cache
